@@ -1,1 +1,1 @@
-# CodeSoftP
+Responsive Portfolio Page website UI, using HTML, CSS. It contains a header and a home section where it shows a title, a description and a button with annimation, as well as a 3D image with mouse movement.
